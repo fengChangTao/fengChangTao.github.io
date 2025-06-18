@@ -14,8 +14,8 @@
 // @match        http://bbs.pcbeta.com/*
 // @run-at       document-start
 // @grant        none
-// @downloadURL  https://github.com/fengChangTao/fengChangTao.github.io/raw/refs/heads/main/script_open_forum_new_tab.js
-// @updateURL https://github.com/fengChangTao/fengChangTao.github.io/raw/refs/heads/main/script_open_forum_new_tab.js
+// @downloadURL  https://github.com/fengChangTao/fengChangTao.github.io/raw/refs/heads/main/script_open_forum_new_tab.user.js
+// @updateURL https://github.com/fengChangTao/fengChangTao.github.io/raw/refs/heads/main/script_open_forum_new_tab.user.js
 // ==/UserScript==
 
 (function() {
