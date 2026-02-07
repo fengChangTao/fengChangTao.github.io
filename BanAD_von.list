@@ -27,10 +27,10 @@ DOMAIN-SUFFIX,jpush.html5.qq.com
 DOMAIN-SUFFIX,novelsns.html5.qq.com
 DOMAIN-SUFFIX,cooperation.html5.qq.com
 DOMAIN-SUFFIX,zixuncooperation.html5.qq.com
-DOMAIN-SUFFIX,kde.qq.com  #小说的广告
-DOMAIN-SUFFIX,ug.qbimg.qq.com  #开屏和首页下面的弹出式伸缩的广告图。
-DOMAIN-SUFFIX,mcdn.kandian.qq.com  #开屏
-DOMAIN-SUFFIX,m4.publicimg.browser.qq.com  #直达_搜索框上方的广告贴图。
+DOMAIN-SUFFIX,kde.qq.com
+DOMAIN-SUFFIX,ug.qbimg.qq.com
+DOMAIN-SUFFIX,mcdn.kandian.qq.com
+DOMAIN-SUFFIX,m4.publicimg.browser.qq.com
 
 #咪咕视频、音乐、阅读开屏和部分图片广告（②）
 DOMAIN-SUFFIX,adxserver.ad.cmvideo.cn
@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,dspserver.ad.cmvideo.cn
 #小米·QQ音乐（前2未知，③是开屏广告）
 DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,adstats.tencentmusic.com
-DOMAIN-SUFFIX,us.l.qq.com  #QQ阅读开屏广告
+DOMAIN-SUFFIX,us.l.qq.com
 #QQ音乐
 DOMAIN-SUFFIX,wnsmusic.qq.com
 DOMAIN-SUFFIX,tmeadbak.y.qq.com
@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,bc-ad-vod.zdmimg.com
 
 #滴滴（①开屏广告会误伤主页一些图标的图）
 DOMAIN-SUFFIX,img-ys011.didistatic.com
-DOMAIN-SUFFIX,s3-hnapuhdd-cdn.didistatic.com  #滴滴开屏2，节日
+DOMAIN-SUFFIX,s3-hnapuhdd-cdn.didistatic.com
 
 #去哪儿旅行（①顶部横幅广告图②开屏广告③强制升级弹窗）
 DOMAIN-SUFFIX,homefront.qunar.com
