@@ -1,4 +1,3 @@
-
 DOMAIN-SUFFIX,acm-prod.disqus.com
 DOMAIN-SUFFIX,memofun.net
 DOMAIN-SUFFIX,pc521.net
@@ -16,6 +15,36 @@ DOMAIN-SUFFIX,emby.dnscf.dpdns.org
 DOMAIN-SUFFIX,emos.best
 DOMAIN-SUFFIX,emby.my
 
+DOMAIN-SUFFIX,1653.us.ci
+DOMAIN-SUFFIX,emos.club
+DOMAIN-SUFFIX,030666.xyz
+DOMAIN-SUFFIX,111196123.xyz
+DOMAIN-SUFFIX,yang1025.dpdns.org
+DOMAIN-SUFFIX,liuer.indevs.in
+DOMAIN-SUFFIX,255432.xyz
+DOMAIN-SUFFIX,255432.cc.cd
+DOMAIN-SUFFIX,movier.ink
+DOMAIN-SUFFIX,mt6688999.dpdns.org
+DOMAIN-SUFFIX,033388.xyz
+DOMAIN-SUFFIX,12321.us.ci
+DOMAIN-SUFFIX,ujmb.dpdns.org
+DOMAIN-SUFFIX,emosbest.indevs.in
+DOMAIN-SUFFIX,tpuqc.dpdns.org
+DOMAIN-SUFFIX,emby.bio
+DOMAIN-SUFFIX,660990.xyz
+DOMAIN-SUFFIX,dirige.de5.net
+DOMAIN-SUFFIX,jeanne.dpdns.org
+DOMAIN-SUFFIX,137127.xyz
+DOMAIN-SUFFIX,cnmbyd.xyz
+DOMAIN-SUFFIX,goldenarch.qzz.io
+DOMAIN-SUFFIX,saga8.dpdns.org
+DOMAIN-SUFFIX,030518.xyz
+DOMAIN-SUFFIX,cc.cd
+DOMAIN-SUFFIX,wangjunqiang.indevs.in
+DOMAIN-SUFFIX,biu.gv.uy
+DOMAIN-SUFFIX,clun.top
+DOMAIN-SUFFIX,dolby.dpdns.org
+DOMAIN-SUFFIX,200038.xyz
 
 DOMAIN-KEYWORD,pcbeta
 DOMAIN-KEYWORD,leopard
@@ -30,6 +59,5 @@ DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,engineeringvillage
 DOMAIN-KEYWORD,clarivate
 DOMAIN-KEYWORD,webofscience
-
-
-
+DOMAIN-KEYWORD,emos
+DOMAIN-KEYWORD,dirige
